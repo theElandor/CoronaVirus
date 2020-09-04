@@ -1,0 +1,22 @@
+Pillow package ---> processing images
+look and say sequence
+
+1211----> 111221--->312211
+
+
+LV 11 ----> odd even , cave
+odd or even.html ---> asks for a password and a username
+
+Important things about this level
+Pil.image.new() method creates a new image with the given mode and size.
+Image.getpixel(coordinates)
+Image.putpixle (coordinates , pixel)
+
+im = Image.open('imagename')
+if we create an image with Image.new , we also have to save it with name.save(name.jpg)
+
+
+LV 12
+
+Dealing evil
+there are no fuking clues.
